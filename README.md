@@ -1,10 +1,10 @@
-Author: Jeremy Chen
-Email: pchen189@asu.edu
-School: Arizona state university
-Term: Spring 2025
-Date created: May 1 2025
-Link to website: https://ras598-2025-s-team06.github.io/
-
+Author: Jeremy Chen<br>
+Email: pchen189@asu.edu<br>
+School: Arizona State University<br>
+Term: Spring 2025<br>
+Date created: May 1 2025<br>
+Link to website: https://ras598-2025-s-team06.github.io/<br>
+<br>
 Short description: <br>
 Goals:<br>
 Our objective was to develop a simple multi-robot system using ROS 2 for inter-device communication. Rather than building a complex framework, our primary focus was to ensure stable connectivity and deliver a user-friendly graphical interface for controlling the system.<br>
